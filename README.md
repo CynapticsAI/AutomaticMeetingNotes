@@ -14,7 +14,7 @@ For Summarization and Translation, we used langchain, which is LLM of GPT model.
 3. http://groups.inf.ed.ac.uk/ami/download/
 
 ## Model
-*Transcription Model:* The model takes video file, audio file or YouTube video as an input and generates its transcript in English using Whisper Model.
+**Transcription Model:** The model takes video file, audio file or YouTube video as an input and generates its transcript in English using Whisper Model.
 
 **Summarization Model:** The summarization model generates concise and most relevant point from a given video file. Langchain model is used for summarization and M2M 100 model of Facebook for translation. 
 The model can take a video or audio file, as well as YouTube video, essentially in english, as an input. The summary is generated in english and then according to user needs the text can be translated from one language to another. 
