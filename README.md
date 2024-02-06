@@ -30,7 +30,6 @@ Our model is capable of taking audio, video and YouTube video files as input, tr
 5. https://dxiaochuan.medium.com/summarising-your-meeting-with-chatgpt-and-langchain-8eb646cfcdd1
 
 ## Contributors
-- [@rupal17shah](https://github.com/rupal17shah)
 - [@rishitmehrotra](https://github.com/mehrotrarishit)
 - [@rainatathed](https://github.com/Raina-310304)
 - [@ayushawasthi](https://github.com/ayushawasthi24)
