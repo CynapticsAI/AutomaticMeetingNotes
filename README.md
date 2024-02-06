@@ -22,9 +22,6 @@ The model can take a video or audio file, as well as YouTube video, essentially 
 ## Features
 Our model is capable of taking audio, video and YouTube video files as input, transcribe them, and generate summary. The model has multilingual output which can be choosen by the user as per requirement. 
 
-## How to run program
-
-
 ## Reference
 1. https://github.com/Rehan-Ahmad/MultimodalDiarization
 2. https://www.mdpi.com/1424-8220/19/23/5163
